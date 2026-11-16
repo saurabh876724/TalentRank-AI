@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# Databases
+*.db
+*.sqlite3
+
+# Environment / secrets
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Uploads / temp
+uploads/
+tmp/
+
+# Frontend
+node_modules/
+dist/
+frontend/.env
